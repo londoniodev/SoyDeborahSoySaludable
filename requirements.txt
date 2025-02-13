@@ -1,0 +1,7 @@
+toga
+briefcase
+supabase
+mercadopago
+requests
+pyzbar
+Pillow
